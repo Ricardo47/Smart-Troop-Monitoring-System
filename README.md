@@ -6,4 +6,6 @@ The station file is the code for the station NodeMCU which sends data to the ser
 
 Sensors interfaced with each NodeMCU: Pulse Sensor and DS18B20 temperature Sensor.
 
+Note: This is a code for both server and station NodeMCUs with pulse and temperature sensor. Furthermore, a GPS module was interfaced with Server NodeMCU and an HTML page was created to track the location data real time and Google Maps API was used to see it on Google Maps. A push button was used with Vibration Motor to act as an alarm for some uncertainity when the button was pressed so that the soldier would have been notified.
+
 Thank you.
